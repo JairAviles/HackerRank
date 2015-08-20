@@ -3,7 +3,7 @@
 * 														     	   		   *
 * Author:    Jair Israel Avilés Eusebio						 	   	       *
 * Date:      07/28/2015									    	   		   *
-* Language:  Oracle										     	   		   *
+* Language:  Oracle			         					     	   		   *
 * Twitter:   @javiles87										 	   		   *
 * URL: https://www.hackerrank.com/challenges/population-density-difference *
 * 															       		   *

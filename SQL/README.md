@@ -1,5 +1,5 @@
 # SQL Domain
-### Hackerrank challenge
+### Hackerrank challenges
 
 Here, you will be find the solution for each following challengue:
 

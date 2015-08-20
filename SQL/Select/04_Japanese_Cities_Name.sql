@@ -6,7 +6,7 @@
 * Language:  Oracle										     	   *
 * Twitter:   @javiles87										 	   *
 * URL: https://www.hackerrank.com/challenges/japanese-cities-name  *
-* 															       *
+* 			        										       *
 * ******************************************************************/
 
 SELECT Name FROM City WHERE CountryCode = 'JPN';

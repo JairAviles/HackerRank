@@ -6,7 +6,7 @@
 * Language:  Oracle										     *
 * Twitter:   @javiles87										 *
 * URL: https://www.hackerrank.com/challenges/select-all-sql  *
-* 															 *
+* 	    													 *
 * ************************************************************/
 
 SELECT * FROM City;

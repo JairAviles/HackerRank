@@ -6,7 +6,7 @@
 * Language:  Oracle										     	   		   *
 * Twitter:   @javiles87										 	   		   *
 * URL: https://www.hackerrank.com/challenges/average-population		       *
-* 															       		   *
+* 									    					       		   *
 * **************************************************************************/
 
 SELECT FLOOR(AVG(Population)) FROM City;
