@@ -7,7 +7,7 @@ import java.util.Scanner;
 * Author:    Jair Israel Avilés Eusebio						 	   	       *
 * Date:      10/27/2015									    	   		   *
 * Language:  Java										     	   		   *
-* Twitter:   @javiles87										 	   		   *
+* Twitter:   @yajairo87										 	   		   *
 * URL: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1       *
 * 															       		   *
 * **************************************************************************/

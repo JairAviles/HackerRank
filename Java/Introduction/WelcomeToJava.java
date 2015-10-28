@@ -4,7 +4,7 @@
 * Author:    Jair Israel Avilés Eusebio						 	   	       *
 * Date:      05/30/2015									    	   		   *
 * Language:  Java										     	   		   *
-* Twitter:   @javiles87										 	   		   *
+* Twitter:   @yajairo87										 	   		   *
 * URL: https://www.hackerrank.com/challenges/welcome-to-java		       *
 * 															       		   *
 * **************************************************************************/

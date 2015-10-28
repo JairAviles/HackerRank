@@ -2,14 +2,14 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /***************************************************************************
-* 						º Java Stdin and Stdout 2 º			 	   		   *
-* 														     	   		   *
-* Author:    Jair Israel Avilés Eusebio						 	   	       *
-* Date:      10/27/2015									    	   		   *
-* Language:  Java										     	   		   *
-* Twitter:   @javiles87										 	   		   *
-* URL: https://www.hackerrank.com/challenges/java-stdin-stdout		       *
-* 															       		   *
+* 	     º Java Stdin and Stdout 2 º			 	   *
+* 								           *
+* Author:    Jair Israel Avilés Eusebio				           *
+* Date:      10/27/2015							   *
+* Language:  Java							   *
+* Twitter:   @yajairo87							   *
+* URL: https://www.hackerrank.com/challenges/java-stdin-stdout		   *
+* 							    		   *
 * **************************************************************************/
 
 public class JavaStdinAndStdout2 {

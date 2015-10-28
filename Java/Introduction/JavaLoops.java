@@ -6,8 +6,8 @@ import java.util.Scanner;
 * Author:    Jair Israel Avilés Eusebio						 	   	       *
 * Date:      10/28/2015									    	   		   *
 * Language:  Java										     	   		   *
-* Twitter:   @javiles87										 	   		   *
-* URL: https://www.hackerrank.com/challenges/java-loops/editorial		       *
+* Twitter:   @yajairo87 									 	   		   *
+* URL: https://www.hackerrank.com/challenges/java-loops/editorial		   *
 * 															       		   *
 * **************************************************************************/
 
