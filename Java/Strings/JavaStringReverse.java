@@ -7,7 +7,7 @@ import java.util.Scanner;
 * Date:      10/29/2015									    	   		   *
 * Language:  Java										     	   		   *
 * Twitter:   @yajairo87										 	   		   *
-* URL: https://www.hackerrank.com/challenges/java-string-reverse	       *
+* URL: https://www.hackerrank.com/challenges/java-anagrams			       *
 * 															       		   *
 * **************************************************************************/
 
