@@ -33,5 +33,6 @@ public class JavaLoops {
             }
             System.out.println("");
         }
+        sc.close();
 	}
 }

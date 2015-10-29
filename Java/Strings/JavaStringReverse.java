@@ -34,5 +34,7 @@ public class JavaReverse {
 		}
 		if(flag) System.out.println("Yes");
         else System.out.println("No");
+
+        sc.close();
     }
 }

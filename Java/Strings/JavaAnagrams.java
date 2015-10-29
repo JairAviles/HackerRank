@@ -35,6 +35,6 @@ public class JavaAnagram {
 	        if(ret)System.out.println("Anagrams");
 	        else System.out.println("Not Anagrams");
 
+	        sc.close();
 	    }
-
 }

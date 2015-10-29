@@ -28,5 +28,6 @@ public class JavaStdinAndStdout1 {
 	               e.printStackTrace();
 	           }
 	      }
+	      sc.close();
 	    }
 }

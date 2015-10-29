@@ -45,6 +45,8 @@ public class JavaStringCompare {
 		        	}
 	    	 } catch (InputMismatchException e){
 	    		 e.printStackTrace();
+	    	 } finally {
+	    	 	sc.close();
 	    	 }
 	    }
 	}

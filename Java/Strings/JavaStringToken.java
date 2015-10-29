@@ -30,6 +30,6 @@ public class JavaStringToken {
 	        	System.out.println(st.nextElement().toString());
 	        }
         }
+        scan.close();
 	}
-
 }
