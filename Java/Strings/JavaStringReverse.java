@@ -11,7 +11,7 @@ import java.util.Scanner;
 * 															       		   *
 * **************************************************************************/
 
-public class JavaReverse {
+public class JavaStringReverse {
 	//public class Solution {
 
 	public static void main(String[] args) {

@@ -12,7 +12,7 @@ import java.util.Scanner;
 * **************************************************************************/
 
 public class Java2dArray {
-
+    //public class Solution {
 	public static void main(String[] args) {
         int max=(int) (Math.pow(10,10) * -1);
 
