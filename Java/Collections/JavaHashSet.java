@@ -1,20 +1,22 @@
-import java.util.HashSet;
-import java.util.Scanner;
+import java.io.*;
+import java.util.*;
 
 /***************************************************************************
-* 					º Java HashSet  º						 	   		   *
+* 					º Java Hashset  º						 	   		   *
 * 														     	   		   *
 * Author:    Jair Israel Avilés Eusebio						 	   	       *
-* Date:      10/30/2015									    	   		   *
+* Date:      11/29/2015									    	   		   *
 * Language:  Java										     	   		   *
 * Twitter:   @yajairo87										 	   		   *
-* URL: https://www.hackerrank.com/challenges/java-hashset		           *
+* URL: https://www.hackerrank.com/challenges/java-hashset/		           *
 * 															       		   *
 * **************************************************************************/
 
 public class JavaHashSet {
 	//public class Solution {
-	public static void main(String[] args) {
+
+    public static void main(String[] args) {
+
 		Scanner in = new Scanner(System.in);
 		HashSet<String> set = new HashSet<String>();
 		int total = 0;
@@ -35,6 +37,6 @@ public class JavaHashSet {
 	    }
 
 	    in.close();
-	}
 
+    }
 }
