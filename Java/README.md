@@ -1,6 +1,6 @@
 # Java Domain
 
-Here, you will be find the solution for each following challengue:
+Here, you will be find the solution for each following challenge:
 
 * [Introduction](https://www.hackerrank.com/domains/java/java-introduction)
 * [Strings](https://www.hackerrank.com/domains/java/java-strings)
